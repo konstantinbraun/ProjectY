@@ -9,7 +9,10 @@ namespace ProjectX
     {
         public static void Main(string[] args)
         {
-            //Test project
+            //Test projectdb 
+            //Change 2
+            Console.WriteLine("Hello .NET Core");
+            Console.ReadLine();
         }
     }
 }
