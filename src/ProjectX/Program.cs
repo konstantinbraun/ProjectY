@@ -12,6 +12,7 @@ namespace ProjectX
             //Test projectdb 
             //Change 2
             Console.WriteLine("Hello .NET Core");
+            Console.WriteLine("The weather ist fine!");
             Console.ReadLine();
         }
     }
